@@ -5,5 +5,5 @@ package com.saty.techmaster.DS.LinkedList;
  */
 public class LinkedList {
 
-    
+
 }
